@@ -2,6 +2,7 @@
 Microcredencial universitaria de Python aplicado a la gestión de carteras, impartida por la Universidad Autónoma de Madrid.
 
 
+
 Repositorio con el trabajo final del curso **Python Aplicado a la Gestión de Carteras**, enfocado en el diseño de estrategias de inversión adaptadas al nuevo escenario económico global ante un posible segundo mandato de Donald Trump.
 
 ## Objetivo
